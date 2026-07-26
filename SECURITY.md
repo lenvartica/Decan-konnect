@@ -4,7 +4,7 @@
 
 If you discover a security vulnerability in Deçan Konnect, please **do not** open a public GitHub issue.
 
-Instead, please email us at: **contact@decan-konnect.com** with:
+Instead, please email us at: **lennymuriuki7@gmail.com** with:
 
 - Description of the vulnerability
 - Steps to reproduce
