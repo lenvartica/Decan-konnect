@@ -1,0 +1,48 @@
+{
+  "name": "decan-konnect",
+  "version": "1.0.0",
+  "description": "Deçan Konnect - Technology Company Portfolio Website. Building the Future Through Code, AI & Innovation.",
+  "main": "index.html",
+  "homepage": "https://decan-konnect.vercel.app",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lenvartica/Decan-konnect.git"
+  },
+  "keywords": [
+    "portfolio",
+    "technology",
+    "ai",
+    "web-development",
+    "mobile-apps",
+    "whatsapp-bots",
+    "cybersecurity",
+    "cloud-solutions",
+    "kenya",
+    "decan"
+  ],
+  "author": {
+    "name": "Lenny Muriuki (Decan)",
+    "email": "contact@decan-konnect.com",
+    "url": "https://github.com/lenvartica"
+  },
+  "license": "MIT",
+  "scripts": {
+    "start": "python3 -m http.server 8000",
+    "serve": "npx http-server -p 8080",
+    "build": "echo 'Static site - no build needed'",
+    "lint:html": "npx html-validate index.html",
+    "lint:css": "npx stylelint 'css/**/*.css'",
+    "test": "echo 'No tests configured yet'"
+  },
+  "devDependencies": {
+    "html-validate": "^8.0.0",
+    "stylelint": "^15.0.0"
+  },
+  "optionalDependencies": {
+    "http-server": "^14.1.1"
+  },
+  "engines": {
+    "node": ">=14.0.0",
+    "npm": ">=6.0.0"
+  }
+}
